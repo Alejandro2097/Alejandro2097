@@ -6,7 +6,7 @@
 ### <div align="center">I'm Alejandro Huertas, a full-time full-stack developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on Banco de Bogotá  
+- 🔭 I’m currently working at Banco de Bogotá  
   
 
 - 🌱 I’m currently learning React, Vue, Svelte, Java, Springboot, linux and AWS  
