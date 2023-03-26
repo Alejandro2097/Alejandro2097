@@ -17,7 +17,11 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
+Hi there! I am a software engineer with 3 years of experience in developing web applications using Angular, NodeJS, AWS, and TypeScript.
 
+In my current role, I have been responsible for designing and implementing scalable and maintainable software solutions for a variety of clients, using a range of technologies including Angular, NodeJS, and AWS. I am also skilled in TypeScript, which has allowed me to write clean, efficient code that is easy to understand and maintain.
+
+I am always looking to learn and grow as a developer, and am eager to take on new challenges and contribute to exciting projects. Thank you for considering me for your team!
 <br/>  
 
 
