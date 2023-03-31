@@ -23,7 +23,8 @@ In my current role, I have been responsible for designing and implementing scala
 
 I am always looking to learn and grow as a developer, and am eager to take on new challenges and contribute to exciting projects. Thank you for considering me for your team!
 <br/>  
-
+<br/> 
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
