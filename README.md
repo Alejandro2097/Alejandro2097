@@ -98,7 +98,7 @@ I am always looking to learn and grow as a developer, and am eager to take on ne
 <br/>  
 ## Portfolio
 https://alejandro-huertas.com/
-
+<br/>  
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Alejandro2097" target="_blank">
