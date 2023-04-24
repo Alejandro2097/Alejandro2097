@@ -120,16 +120,6 @@ I am always looking to learn and grow as a developer, and am eager to take on ne
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=huertas20971&cover_image=true&theme=default&show_offline=false" /></div>  
-
-<br/>  
-
   
 
 <br/>  
