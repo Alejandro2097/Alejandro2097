@@ -128,4 +128,3 @@ I am always looking to learn and grow as a developer, and am eager to take on ne
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
