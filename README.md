@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Alejandro2097.Alejandro2097" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!;I'm+Alejandro+Huertas;Software+engineer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F70202&center=true&random=false&width=435&lines=Hi+there!;I'm+Alejandro+Huertas;Software+engineer" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
