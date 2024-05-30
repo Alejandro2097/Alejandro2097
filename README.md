@@ -55,8 +55,8 @@
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Alejandro2097&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alejandro2097&theme=dark&hide_border=true" alt="top langs" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro2097&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
+  <img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alejandro2097&theme=dark&hide_border=true" alt="top langs" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro2097&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
